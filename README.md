@@ -21,5 +21,6 @@ Created Log Analytics WorkSpace
 <br>
 From here we go to the Windows Defender for Cloud and enable windows defender on our virtual machine.
 <br>
-![defenderenable](https://user-images.githubusercontent.com/105601437/206647754-7cae7249-5223-437c-8bec-428eb8fcfd54.png)
+![defenderenabled2](https://user-images.githubusercontent.com/105601437/206648169-f679f8ba-b6b4-43f8-9c58-214a4589a641.png)
+
 
