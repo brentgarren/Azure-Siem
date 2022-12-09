@@ -10,4 +10,9 @@ configured virtual machine
 Configured Network Firewall Protocols to allow all inbound traffic
 <br>
 ![securitygroup](https://user-images.githubusercontent.com/105601437/206639392-3759d746-800d-453e-98de-88cc207e8f57.png)
+<br>
+Deployment of the VirtualMachine
+<br>
+![deployment](https://user-images.githubusercontent.com/105601437/206640224-62771bcc-9cd6-4e84-bd0b-763aa3654c66.png)
+
 
