@@ -14,5 +14,9 @@ Configured Network Firewall Protocols to allow all inbound traffic
 Deployment of the VirtualMachine
 <br>
 ![deployment](https://user-images.githubusercontent.com/105601437/206640224-62771bcc-9cd6-4e84-bd0b-763aa3654c66.png)
+<br>
+Created Log Analytics WorkSpace
+<br
+![loganalytics](https://user-images.githubusercontent.com/105601437/206645890-ed3fe25a-b15f-4a6e-b621-5b83e5ae5519.png)
 
 
