@@ -18,5 +18,8 @@ Deployment of the VirtualMachine
 Created Log Analytics WorkSpace
 <br
 ![loganalytics](https://user-images.githubusercontent.com/105601437/206645890-ed3fe25a-b15f-4a6e-b621-5b83e5ae5519.png)
-
+<br>
+From here we go to the Windows Defender for Cloud and enable windows defender on our virtual machine.
+<br>
+![defenderenable](https://user-images.githubusercontent.com/105601437/206647754-7cae7249-5223-437c-8bec-428eb8fcfd54.png)
 
