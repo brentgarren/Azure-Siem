@@ -6,3 +6,8 @@ created resource group<br>
 configured virtual machine
 <br>
 ![create virtualmachine](https://user-images.githubusercontent.com/105601437/206637643-adda2366-043c-4d43-bd97-fe1737a22a26.png)
+<br>
+Configured Network Firewall Protocols to allow all inbound traffic
+<br>
+![securitygroup](https://user-images.githubusercontent.com/105601437/206639392-3759d746-800d-453e-98de-88cc207e8f57.png)
+
