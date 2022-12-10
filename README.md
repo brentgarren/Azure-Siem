@@ -16,11 +16,16 @@ Deployment of the VirtualMachine
 ![deployment](https://user-images.githubusercontent.com/105601437/206640224-62771bcc-9cd6-4e84-bd0b-763aa3654c66.png)
 <br>
 Created Log Analytics WorkSpace
-<br
+<br>
 ![loganalytics](https://user-images.githubusercontent.com/105601437/206645890-ed3fe25a-b15f-4a6e-b621-5b83e5ae5519.png)
 <br>
 From here we go to the Windows Defender for Cloud and enable windows defender on our virtual machine.
 <br>
 ![defenderenabled2](https://user-images.githubusercontent.com/105601437/206648169-f679f8ba-b6b4-43f8-9c58-214a4589a641.png)
+<br>
+After upgrading from free Security Center to the upgraded version we are able to enable datacollection of all event logs on our Virtual Machine
+<br>
+![datacollection](https://user-images.githubusercontent.com/105601437/206828568-174993f6-e0ca-4f45-9d29-0c26bfc85c7a.png)
+
 
 
