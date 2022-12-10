@@ -30,6 +30,8 @@ After upgrading from free Security Center to the upgraded version we are able to
 ![create Azure sentinel](https://user-images.githubusercontent.com/105601437/206828743-54743869-a642-4067-895c-c26543f671d9.png)
 <br>
 ![signing intovm](https://user-images.githubusercontent.com/105601437/206829911-697ed8a3-3353-4cfb-8e69-27fbd62c26e8.png)
+<br>
+![audit failure](https://user-images.githubusercontent.com/105601437/206829957-fc91a68a-314b-4da9-b75c-21a6722ab2ac.png)
 
 
 
