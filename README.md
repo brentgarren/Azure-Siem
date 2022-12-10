@@ -26,6 +26,8 @@ From here we go to the Windows Defender for Cloud and enable windows defender on
 After upgrading from free Security Center to the upgraded version we are able to enable datacollection of all event logs on our Virtual Machine
 <br>
 ![datacollection](https://user-images.githubusercontent.com/105601437/206828568-174993f6-e0ca-4f45-9d29-0c26bfc85c7a.png)
+<br>
+![create Azure sentinel](https://user-images.githubusercontent.com/105601437/206828743-54743869-a642-4067-895c-c26543f671d9.png)
 
 
 
